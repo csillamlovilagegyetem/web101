@@ -1,2 +1,3 @@
-# web101
+﻿# web101
 weblapkészítés EVK
+A webfejlesztés fun
